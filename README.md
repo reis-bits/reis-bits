@@ -16,7 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reis-bits&layout=compact&theme=github_dark)
 
 
-## Contato!
+## Contato! 
+<img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/terra.gif">
 <div>
   <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardorprincepe007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
