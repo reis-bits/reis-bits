@@ -1,9 +1,9 @@
-## Eai! Reis aqui!
+## Opa eu sou o Reis!
 
 - 🔭 Estou aprendendo a escrever linhas coloridinhas
 - 🌱 Aprendendo HTML5, CSS3 e JS. Somente o básico pra um começo!
 - 📫 Pode me contatar no Discord ou Whatsapp. No e-mail também, mas já aviso que dificilmente vou ver...
-- ⚡ I5-8500 + GTX1060 + 16GB RAM
+- 💻 I5-8500 + GTX1060 + 16GB RAM
   
 ## Skills!
 <div>
@@ -13,7 +13,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reis-bits&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reis-bits&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reis-bits&layout=compact&theme=github_dark)
 
 
 ## Contato!
