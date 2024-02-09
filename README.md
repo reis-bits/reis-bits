@@ -1,9 +1,9 @@
 ## Opa eu sou o Reis!
 
-- 🔭 Estou aprendendo a escrever linhas coloridinhas
-- 🌱 Aprendendo HTML5, CSS3 e JS. Somente o básico pra um começo!
-- 📫 Pode me contatar no Discord ou Whatsapp. No e-mail também, mas já aviso que dificilmente vou ver...
-- 💻 I5-8500 + GTX1060 + 16GB RAM
+- 🔭 Sou desenvolvedor Front-End!
+- 💻 Já fui assessor de hardware, consultando peças e realizando montagens de computadores, mas realizei uma transição de carreira e agora sou desenvolvedor front end!
+- 🌱 Estou upando minhas skills atualmente em JavaScript e Tailwind CSS
+- 📫 Aí abaixo estão meus contatos!
   
 ## Skills!
 <div>
