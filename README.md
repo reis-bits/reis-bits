@@ -11,7 +11,10 @@
 <img align="center" alt="bits-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img align="center" alt="bits-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="bits-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img align="center" alt="bits-SASS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="center" alt="bits-TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="center" alt="bits-INGLES" src="https://img.shields.io/badge/INGLES-red?style=for-the-badge&logo=gitbook&logoColor=white&color=%23FF312E
+
+">
 
 </div>
 
