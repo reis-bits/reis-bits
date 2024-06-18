@@ -4,7 +4,17 @@
 - 💻 Já fui assessor de hardware, consultando peças e realizando montagens de computadores, mas realizei uma transição de carreira e agora sou desenvolvedor front end!
 - 🌱 Estou upando minhas skills atualmente em JavaScript e Tailwind CSS
 - 📫 Aí abaixo estão meus contatos!
-  
+ 
+## Contato! 
+
+<div> 
+  <a href = "mailto:reisbits.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/eduardo-reis-princepe-2256a72b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://wa.me/5511930149753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
+</div>
+
 ## Skills!
 <div>
 <img align="center" alt="bits-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,12 +34,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reis-bits&layout=compact&theme=github_dark)
 
 
-## Contato! 
-
-<div> 
-  <a href = "mailto:reisbits.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/eduardo-reis-princepe-2256a72b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://wa.me/5511930149753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
-</div>
