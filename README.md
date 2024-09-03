@@ -16,6 +16,7 @@
 </div>
 
 ## Skills!
+
 <div>
 <img align="center" alt="bits-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="bits-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -24,8 +25,6 @@
 <img align="center" alt="bits-TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alt="bits-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alt="bits-INGLES" src="https://img.shields.io/badge/INGL%C3%8AS-red?style=for-the-badge&logo=gitbook&logoColor=white&color=%23FF312E">
-
-
 </div>
 
 <br>
