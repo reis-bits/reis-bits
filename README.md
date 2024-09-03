@@ -12,7 +12,6 @@
   <a href = "https://www.linkedin.com/in/eduardo-reis-princepe-2256a72b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5511930149753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
 </div>
 
 ## Skills!
@@ -25,6 +24,7 @@
 <img align="center" alt="bits-TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alt="bits-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alt="bits-INGLES" src="https://img.shields.io/badge/INGL%C3%8AS-red?style=for-the-badge&logo=gitbook&logoColor=white&color=%23FF312E">
+<img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
 </div>
 
 <br>
