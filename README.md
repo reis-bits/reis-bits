@@ -2,7 +2,7 @@
 
 - 🔭 Sou desenvolvedor Front-End!
 - 💻 Já fui assessor de hardware, consultando peças e realizando montagens de computadores, mas realizei uma transição de carreira e agora sou desenvolvedor front end!
-- 🌱 Estou upando minhas skills atualmente em JavaScript e Tailwind CSS
+- 🌱 Estudando JavaScript
 - 📫 Aí abaixo estão meus contatos!
  
 ## Contato! 
