@@ -1,7 +1,7 @@
 ## Opa eu sou o Reis!
 
 - 🔭 Já fui Dev front-end;
-- 🎸 Eu meio que sou músico agora;
+- 🎸 Eu meio que sou músico agora, só vai ter brincadeira aqui;
 - 🌱 Estudando Teoria musical;
 - 📫 Aí abaixo estão meus contatos!
  
