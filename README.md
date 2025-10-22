@@ -1,15 +1,13 @@
 ## Opa eu sou o Reis!
 
-- 🔭 Sou desenvolvedor Front-End!
-- 💻 Já fui assessor de hardware, consultando peças e realizando montagens de computadores, mas realizei uma transição de carreira e agora sou desenvolvedor front end!
-- 🌱 Estudando JavaScript
+- 🔭 Já fui Dev front-end;
+- 🎸 Eu meio que sou músico agora;
+- 🌱 Estudando Teoria musical;
 - 📫 Aí abaixo estão meus contatos!
  
 ## Contato! 
 
 <div> 
-  <a href = "mailto:reisbits.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/eduardo-reis-princepe-2256a72b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5511930149753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
