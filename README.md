@@ -1,35 +1,13 @@
 ## Opa eu sou o Reis!
 
 - 🔭 Já fui Dev front-end;
-- 🎸 Eu meio que sou músico agora, só vai ter brincadeira aqui;
+- 🎸 Eu meio que sou músico agora, só vai ter brincadeira aqui agora, tipo um servidor de Minecraft;
 - 🌱 Estudando Teoria musical;
-- 📫 Aí abaixo estão meus contatos!
- 
-## Contato! 
-
-<div> 
-  <a href="https://discordapp.com/users/351141842722750465/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://wa.me/5511930149753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+- 📫 Aí abaixo estão meus contatos
 
 ## Skills!
 
-<div>
-<img align="center" alt="bits-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="bits-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img align="center" alt="bits-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="bits-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img align="center" alt="bits-TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img align="center" alt="bits-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="bits-INGLES" src="https://img.shields.io/badge/INGL%C3%8AS-red?style=for-the-badge&logo=gitbook&logoColor=white&color=%23FF312E">
  <div style="display: inline_block;margin-top: 2rem"><br>
   <img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
 </div>
-</div>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reis-bits&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reis-bits&layout=compact&theme=github_dark)
-
 
