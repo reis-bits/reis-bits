@@ -5,8 +5,6 @@
 - 🌱 Estudando Teoria musical;
 - 📫 Aí abaixo estão meus contatos
 
-## Skills!
-
  <div style="display: inline_block;margin-top: 2rem"><br>
   <img align="right" alt="GIF" height="140" src="https://github.com/reis-bits/reis-bits/blob/main/forg.gif">
 </div>
